@@ -1,0 +1,212 @@
+Rank,Team Code,Team,Total Points
+1,GER,Germany,1609
+2,BRA,Brazil,1489
+3,POR,Portugal,1360
+4,ARG,Argentina,1359
+5,BEL,Belgium,1337
+6,POL,Poland,1228
+6,ESP,Spain,1228
+8,SUI,Switzerland,1197
+9,FRA,France,1185
+10,CHI,Chile,1161
+11,PER,Peru,1128
+12,DEN,Denmark,1108
+13,COL,Colombia,1106
+14,ITA,Italy,1062
+15,CRO,Croatia,1053
+16,ENG,England,1047
+17,MEX,Mexico,1038
+18,ISL,Iceland,1026
+19,SWE,Sweden,1002
+20,WAL,Wales,984
+21,NED,Netherlands,964
+22,URU,Uruguay,931
+23,TUN,Tunisia,920
+24,NIR,Northern Ireland,879
+25,USA,USA,876
+26,CRC,Costa Rica,872
+27,SEN,Senegal,862
+28,AUT,Austria,826
+29,SVK,Slovakia,822
+30,PAR,Paraguay,816
+31,IRL,Republic of Ireland,804
+32,SCO,Scotland,797
+33,IRN,IR Iran,792
+34,SRB,Serbia,780
+35,UKR,Ukraine,778
+36,ROU,Romania,749
+37,AUS,Australia,740
+38,TUR,Turkey,730
+39,COD,Congo DR,728
+40,BUL,Bulgaria,715
+41,BIH,Bosnia and Herzegovina,700
+42,MAR,Morocco,694
+43,CZE,Czech Republic,690
+44,EGY,Egypt,687
+45,GRE,Greece,685
+46,MNE,Montenegro,675
+47,BOL,Bolivia,674
+48,VEN,Venezuela,659
+49,JAM,Jamaica,643
+50,HUN,Hungary,637
+51,CMR,Cameroon,611
+52,NGA,Nigeria,609
+53,PAN,Panama,605
+54,GHA,Ghana,602
+55,JPN,Japan,593
+56,BFA,Burkina Faso,587
+57,NOR,Norway,578
+58,ALB,Albania,557
+59,KOR,Korea Republic,554
+60,ALG,Algeria,553
+61,CPV,Cape Verde Islands,539
+62,SVN,Slovenia,537
+63,RUS,Russia,531
+64,HON,Honduras,517
+65,ECU,Ecuador,508
+65,CHN,China PR,508
+67,MLI,Mali,506
+68,FIN,Finland,503
+69,KSA,Saudi Arabia,494
+70,GUI,Guinea,484
+71,CIVCôte d'Ivoire,479,476
+72,UZB,Uzbekistan,451
+73,PLE,Palestine,449
+74,SYR,Syria,442
+75,MKD,FYR Macedonia,441
+76,RSA,South Africa,440
+77,ZAM,Zambia,438
+78,UGA,Uganda,435
+79,TRI,Trinidad and Tobago,430
+79,UAE,United Arab Emirates,430
+81,BEN,Benin,427
+82,CUWCuraçao,407,407
+83,LUX,Luxembourg,405
+83,IRQ,Iraq,405
+85,HAI,Haiti,403
+86,EST,Estonia,399
+87,SLV,El Salvador,390
+87,LIB,Lebanon,390
+87,CGO,Congo,390
+90,CAN,Canada,388
+91,ARM,Armenia,385
+92,CYP,Cyprus,378
+93,BLR,Belarus,376
+94,ISR,Israel,375
+95,GAB,Gabon,371
+96,GNBGuinea-Bissau,368,368
+97,FRO,Faroe Islands,364
+98,SLE,Sierra Leone,360
+99,IND,India,339
+99,LBY,Libya,339
+101,QAT,Qatar,332
+101,GEO,Georgia,332
+103,OMA,Oman,331
+104,MTN,Mauritania,322
+105,KEN,Kenya,317
+105,MOZ,Mozambique,317
+107,SKN,St Kitts and Nevis,316
+108,ZIM,Zimbabwe,312
+109,MAD,Madagascar,309
+110,NIG,Niger,305
+111,NAM,Namibia,302
+112,RWA,Rwanda,296
+113,VIE,Vietnam,293
+114,TKM,Turkmenistan,292
+115,KGZ,Kyrgyz Republic,282
+116,NCA,Nicaragua,277
+117,SDN,Sudan,276
+117,JOR,Jordan,276
+119,PRK,Korea DPR,270
+120,NZL,New Zealand,267
+121,CTA,Central African Republic,266
+122,PHI,Philippines,265
+123,MWI,Malawi,264
+124,TJK,Tajikistan,255
+125,BHR,Bahrain,253
+126,GUA,Guatemala,245
+127,AZE,Azerbaijan,243
+128,TOG,Togo,241
+129,THA,Thailand,238
+130,AND,Andorra,232
+131,LVA,Latvia,231
+132,COM,Comoros,230
+133,SWZ,Swaziland,227
+134,TPE,Chinese Taipei,225
+135,LBR,Liberia,224
+136,KAZ,Kazakhstan,223
+137,ETH,Ethiopia,221
+138,EQG,Equatorial Guinea,213
+139,ATG,Antigua and Barbuda,212
+140,YEM,Yemen,211
+141,ANG,Angola,210
+142,MYA,Myanmar,203
+142,BDI,Burundi,203
+144,LES,Lesotho,193
+145,HKG,Hong Kong,190
+146,TAN,Tanzania,186
+147,LTU,Lithuania,182
+148,AFG,Afghanistan,176
+149,BOT,Botswana,173
+150,MDV,Maldives,161
+151,SOL,Solomon Islands,152
+152,BRB,Barbados,151
+153,TAH,Tahiti,149
+154,SSD,South Sudan,148
+155,NCL,New Caledonia,146
+156,VAN,Vanuatu,141
+157,SUR,Suriname,140
+158,MRI,Mauritius,134
+159,GUY,Guyana,126
+159,PNG,Papua New Guinea,126
+159,GRN,Grenada,126
+162,IDN,Indonesia,123
+163,DOM,Dominican Republic,121
+164,GAM,Gambia,120
+165,NEP,Nepal,116
+166,DMA,Dominica,112
+166,PUR,Puerto Rico,112
+168,FIJ,Fiji,110
+168,CHA,Chad,110
+170,MDA,Moldova,105
+171,SIN,Singapore,103
+171,CAM,Cambodia,103
+173,LCA,St Lucia,101
+173,KUW,Kuwait,101
+175,VIN,St Vincent and the Grenadines,100
+176,KVX,Kosovo,97
+177,BLZ,Belize,96
+178,MAS,Malaysia,95
+179,STPSão Tomé e Príncipe,94,94
+180,ARU,Aruba,92
+181,LIE,Liechtenstein,91
+182,CUB,Cuba,88
+183,LAO,Laos,82
+184,BER,Bermuda,78
+185,MLT,Malta,68
+186,MAC,Macau,65
+187,DJI,Djibouti,64
+188,BHU,Bhutan,63
+189,MNG,Mongolia,49
+190,TLSTimor-Leste,44,44
+191,SEY,Seychelles,43
+191,GUM,Guam,43
+193,BRU,Brunei Darussalam,39
+194,ASA,American Samoa,38
+194,COK,Cook Islands,38
+194,SAM,Samoa,38
+197,BAN,Bangladesh,31
+198,VIR,US Virgin Islands,26
+199,MSR,Montserrat,20
+200,SRI,Sri Lanka,16
+201,TCA,Turks and Caicos Islands,13
+201,CAY,Cayman Islands,13
+203,PAK,Pakistan,12
+204,SMR,San Marino,11
+205,VGB,British Virgin Islands,6
+206,AIA,Anguilla,0
+206,BAH,Bahamas,0
+206,ERI,Eritrea,0
+206,GIB,Gibraltar,0
+206,SOM,Somalia,0
+206,TGA,Tonga,0
